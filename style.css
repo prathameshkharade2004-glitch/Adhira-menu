@@ -195,15 +195,15 @@ section h2{
     background: #e8f8ec;
     color: #166534;
     text-align: center;
-    padding: 20px 12px;
+    padding: 10px 10px;
     font-weight: 600;
 }
 
 .delivery-offer p {
     margin: 0 0 7px;
-    font-size: 26px;
+    font-size: 24px;
 }
 
 .delivery-offer span {
-    font-size: 20px;
+    font-size: 18px;
 }
