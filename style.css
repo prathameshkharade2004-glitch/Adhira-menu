@@ -189,3 +189,21 @@ section h2{
     border-radius:12px;
     box-shadow:0 5px 15px rgba(0,0,0,0.25);
 }
+
+
+.delivery-offer {
+    background: #e8f8ec;
+    color: #166534;
+    text-align: center;
+    padding: 12px 10px;
+    font-weight: 600;
+}
+
+.delivery-offer p {
+    margin: 0 0 5px;
+    font-size: 18px;
+}
+
+.delivery-offer span {
+    font-size: 14px;
+}
